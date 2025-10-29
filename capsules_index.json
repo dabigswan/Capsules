@@ -1,0 +1,20 @@
+{
+  "updated": "2025-10-29",
+  "capsules": [
+    {
+      "name": "VoyageJapon.txt",
+      "raw_url": "https://raw.githubusercontent.com/dabigswan/Capsules/refs/heads/main/VoyageJapon.txt",
+      "type": "text/plain"
+    },
+    {
+      "name": "UsineSQUELETTE.txt",
+      "raw_url": "https://raw.githubusercontent.com/dabigswan/Capsules/refs/heads/main/UsineSQUELETTE.txt",
+      "type": "text/plain"
+    },
+    {
+      "name": "BS13GuideTechnique.txt",
+      "raw_url": "https://raw.githubusercontent.com/dabigswan/Capsules/refs/heads/main/BS13GuideTechnique.txt",
+      "type": "text/plain"
+    }
+  ]
+}
