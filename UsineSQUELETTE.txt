@@ -1,0 +1,28 @@
+Usine Becton — Guide Global
+1. Présentation du site
+Le site Becton Dickinson de Pont-de-Claix (ZAC Lister) comprend plusieurs UAP (Unités Autonomes de Production) dédiées au conditionnement de seringues en verre stériles.
+2. Organisation des UAP et lignes
+UAP5 à UAP8 couvrent l’ensemble des lignes BS7, BS8, BS9, BS13, BS17 et BS18. Chaque ligne dispose d’un niveau d’automatisation et d’une gamme produit spécifique.
+3. Gammes de produits
+• Hypak : seringues standard.
+• Neopak : seringues renforcées.
+• Hylok : seringues haute performance.
+
+Chaque gamme diffère par le verre, le siliconage et le type de capuchon.
+4. Flux usine
+Les flux principaux : SCF (stérilisation), QC (Quality Control), Revue, Bulk. Le flux global suit un cheminement entre les zones de lavage, siliconage, remplissage, capsulage et packaging.
+5. Lexique technique
+• Tyvek : matériau perméable utilisé pour le conditionnement stérile.
+• Steribag : sachet simple (SHB) ou double (DHB) pour l’emballage final.
+• Tub/Nest : supports utilisés pour le transport et le remplissage.
+• ATEC : contrôle électrique du capuchon RNS.
+• PEEK : matériau haute performance pour les pièces en contact produit.
+6. Règles qualité et sécurité
+Les MOP (Manufacturing Operating Procedures) régissent toutes les opérations : nettoyage, habillage, sécurité et interventions. Les opérateurs respectent des procédures strictes pour garantir la stérilité et la conformité.
+7. Références machines
+Pour le détail complet des processus machine, se référer aux guides spécifiques :
+- BS13_Guide_Technique.docx
+- BS17_Guide_Technique.docx
+- BS18_Guide_Technique.docx
+
+Chaque guide décrit les étapes SAM, Laveuse, ATEC, MTA et Conditionnement.
