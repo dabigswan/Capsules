@@ -1,0 +1,62 @@
+BS13 — Guide Technique
+Machine *BS13* (UAP5, ZAC Lister) — Guide ultime corrigé
+Présentation générale
+- Ligne *BS13* située en UAP5 (ZAC Lister).
+- Ligne semi-moderne, plus automatisée que *BS7/8/9* mais moins que *BS17/18*.
+- Caractéristiques : présence d’une *MTA* (Mise en Tub Automatique), impression laser intégrée,
+poste *ATEC* spécifique aux capuchons *RNS*.
+- Opérateurs : contrôles visuels, emballage final (*SHB* ou *DHB*).
+Flux global de la seringue
+1. *SAM* : chargement rondos → extraction seringues → carrousels verticaux → rail de descente
+(vibrant + gravité).
+2. Laveuse : lavage, séchage, siliconage, dépose capuchons, enfoncement, test *ATEC*,
+retournement sortie, carrousel sortie + rails basculants.
+3. *Nestloader* : division flux en deux voies, mise en nest.
+4. *MTA* : mise en tub automatique, impression laser.
+5. Conditionnement opérateur : récupération tubs, emballage steribags simples (*SHB*) ou doubles
+(*DHB*).
+1) *SAM* (Système Automatisé de Manipulation)
+- Magasin horizontal : piles de rondos chargées par opérateurs.
+- Cloche aspire un rondo → dépose sur voie.
+- Bras de poussée avance rondo vers doigt d’extraction.
+- Doigt d’extraction retire seringue du rondo.
+- Deux carrousels d’extraction verticaux à ventouses (rotation inverse).
+- Sortie vers rail de descente (vibrant puis gravitationnel), aiguille en bas.
+2) Laveuse *BS13*
+- Carrousel d’entrée alimente bloc circulaire (~15 pinces × 8 pincettes).
+- Retournement entrée : seringues pivotées aiguille en haut.
+- 4 postes de lavage : buses intérieures (barrel), buses haut/bas (extérieur).
+- 3 postes de séchage : buses d’air disposées identiquement.
+- Siliconage :
+ Buses Hyvek : pulvérisation simple, dépôt ~0,8 mg.
+ Buses MDN : plongeantes, 2 couches, 0,4 ou 0,8 mg.
+ Mousses de siliconage : préparées par opérateur, collées et enduites de deux couches de
+silicone, contact direct avec l’aiguille (non en *PEEK*).
+- Dépose capuchons : bol vibrant → tuyaux → 8 chambres de dépose → fenêtre de dépose →
+capuchon tombe sur embout maintenu par V/contre-V.
+- Enfoncement capuchons : mords en *PEEK* saisissent capuchon, descendent et l’enfoncent.
+- Test *ATEC* : électrode pénètre par l’aiguille, contrôle du capuchon *RNS* (Rigid Needle Shield).
+ *NS* (Needle Shield, partie souple) doit retenir courant.
+ Si courant passe → aiguille a transpercé ou capuchon non conforme.
+- Retournement sortie : pivot 180°, aiguilles en bas.
+- Carrousel sortie → double rail basculant → division flux vers *Nestloader* 2 voies.
+3) *MTA* (Mise en Tub Automatique)
+- Dépose automatique nests → tubs.
+- Impression laser intégrée sur tub.
+- Opérateurs : récupération tubs imprimés, mise en steribags *SHB* ou *DHB* selon lot.
+4) Contrôles
+- Visuels opérateurs après *MTA*.
+- Pas de bancs automatisés de contrôles fréquenciels (contrairement à d’autres lignes).
+- Intégré : test *ATEC* (capuchon *RNS*).
+5) Matériaux de contact (*PEEK*)
+- *PEEK* utilisé pour les parties dures en contact ou risque de contact avec seringue :
+ Rails de convoyage.
+ Extrémités des pincettes.
+ Doigts d’extraction.
+ Revêtement des buses lavage/séchage.
+- Avantage : matériau stable, pas de dépôts, compatible avec usage stérile.
+---
+Convention : les termes marqués d’un astérisque (*) sont du jargon inamovible et ne doivent pas
+être modifiés.
+
+Référence croisée : Usine_Becton_Guide_Global.docx pour contexte UAP et flux inter-lignes.
